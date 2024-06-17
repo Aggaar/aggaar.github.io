@@ -3,10 +3,14 @@ body {
 }
 h1 {
   color: White;
+  font-family: "Lucida Console", "Courier New", monospace;
+
 }
 h2 {
   color: White;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
+
 p {
   color: White;
   font-family: "Lucida Console", "Courier New", monospace;
